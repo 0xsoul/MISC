@@ -42,3 +42,52 @@ Introducing 44 cybersecurity YouTube channels (final version:
 41. Null Byte - ethical hacking 
 42. LoiveOverflow - Write ups
 43. The PC Security Channel - Security
+
+CTF websites
+-> Try Hack Me https://tryhackme.com
+-> Attack Defense https://attackdefense.com
+-> Alert to win https://alf.nu/alert 1
+-> CMD Challenge https://cmdchallenge.com
+-> Exploration Education https://exploit.education
+-> Google CTF https://lnkd.in/duWYUDUS
+-> HackTheBox https://lnkd.in/dRXt6Xxa
+-> Defendtheweb https://defendtheweb.net/
+- Hacksplaining https://lnkd.in/d3ygBUCV
+-> Hacker 101 https://ctf.hacker101.com
+-> Hacker Security https://lnkd.in/dHhM8bFB
+-> Hacking-Lab https://lnkd.in/dnixMZ72
+-> HSTRIKE https://hstrike.com
+-> ImmersiveLabs https://immersivelabs.com
+-> NewbieContest https://lnkd.in/dmpmp Qym
+-> OverTheWire http://overthewire.org
+-> Practical Pentest Labs https://lnkd.in/dw57aR6e
+-> Pentestlab https://pentesterlab.com
+-> Penetration Testing Practice Labs https://lnkd.in/dRRgi2sk
+-> PentestIT LAB https://lab.pentestit.ru
+-> PICOCTF https://picoctf.com
+
+Search Engines
+1. shodan.io  (Server)
+2.google.com  (Dorks)
+3. wigle.net  (WiFi Networks) 
+4. grep.app   (Codes Search)
+5. app.binaryedge onyphe.io   (Threat Intelligence)
+6. onephy.io (Server)
+7. viz.greynoise.to (Threat Intelligence)
+8. censys.to  (Server)
+9. hunter.io  (Email Addresses)
+10. fofa.info (Threat Intelligence)
+11. zoomeye.org (Threat Intelligence)
+12. leakix.net (Threat Intelligence)
+13. intelx.io  (OSINT)
+14. app.netlas.io (Attack Surface)
+15. searchcode.com (Codes Search)
+16. urlscan.io  (Threat Intelligence)
+17. publicwww.com (Codes Search)
+18. fullhunt.to  (Attack Surface)
+19. socradar.to  (Threat Intelligence)
+20. binaryedge.io (Attack Surface)
+21. ivre.rocks (Server) 
+22. crt.sh (Certificate Search)
+23. vulners.com (Vulnerabilities)
+24. pulsedive.com (Threat Intelligence)
